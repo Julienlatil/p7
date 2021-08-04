@@ -12,7 +12,7 @@
 - Créer un dossier vide et cloner ce repository à l'intérieur:
 
 ```bash
-git clone https://github.com//P7-Groupomania.git
+git clone https://github.com/Julienlatil/p7
 ```
 
 - Vous verrez deux dossiers distincts: Frontend et Backend.
